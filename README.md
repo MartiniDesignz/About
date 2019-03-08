@@ -20,17 +20,21 @@
 
 ## Relavent Projects
 
-<h4> Website Developement </h4>
+<h4> Website Developement (Html, CSS, JavaScript, PHP) </h4>
 
 > Created the website [martinihometech.com](http://martinihometech.com/index.php) to learn Html, CSS, JavaScript and PHP
 
-<h4> MineSweeper (C++) </h4>
+<h4> [MineSweeper](https://github.com/MartiniDesignz/MineSweeper) (C++) </h4>
 
-> Created [MineSweeper](https://github.com/MartiniDesignz/MineSweeper) with straight C++
+> Created MineSweeper with straight C++
 
-<h4> Hangman (LabVIEW) </h4>
+<h4> [Hangman](https://github.com/MartiniDesignz/HangmanInLabVIEW) (LabVIEW) </h4>
 
-> Created [Hangman](https://github.com/MartiniDesignz/HangmanInLabVIEW) using olny LabVIEW
+> Created Hangman using olny LabVIEW
 
+<h4> [Wrestling Glove](https://github.com/MartiniDesignz/Wrestling-Glove) (C++, Python) </h4>
 
+>The glove would be for wrestling referees.  When the referee awards points to a wrestler,
+the glove will add points to the score board automatically.  It will also flash and vibrate
+when time is up.  
 
