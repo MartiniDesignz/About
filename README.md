@@ -16,12 +16,7 @@
 
 > Digital Logic Circuits, Arduino, Raspberry Pi, Soldering
 
-> 
-
-> 
- 
-> 
- 
+<br>
 
 ## Relavent Projects
 
@@ -29,5 +24,7 @@
 
 > Created the website [martinihometech.com](http://martinihometech.com/index.php) to learn Html, CSS, JavaScript and PHP
 
+<h4> MineSweeper (C++) </h4>
 
+> Created [MineSweeper](https://github.com/MartiniDesignz/MineSweeper) with straight C++
 
