@@ -28,3 +28,9 @@
 
 > Created [MineSweeper](https://github.com/MartiniDesignz/MineSweeper) with straight C++
 
+<h4> Hangman (LabVIEW) </h4>
+
+> Created [Hangman](https://github.com/MartiniDesignz/HangmanInLabVIEW) using olny LabVIEW
+
+
+
