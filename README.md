@@ -1,6 +1,5 @@
 <h1 align="center">Robby Martini</h1>
 <h4 align="center">marti2rj@mail.uc.edu</h4>
-<br>
 
 ## Education
 
@@ -12,6 +11,7 @@ Bachelor of Science in Computer Engineering                      GPA: 3.31
 Taylor High School, Cincinnati, Ohio                         Class of 2018
 Honors Diploma                                                    GPA 4.32
 </pre>
+<br>
 
 ## Skills
 <h4> Programming Languages</h4>
