@@ -20,7 +20,7 @@ Honors Diploma                                                    GPA 4.32
 
 <h4> Software </h4>
 
-> GitHub, Excel, Microsoft Word, NI Multisim, Gravit Designer, Davinci Resolve and Fusion, Gimp, Qt Creator, WampServer64, Brackets, Autodesk Inventor, Visual Studio Code, BetaFlight
+> GitHub, Excel, Microsoft Word, NI Multisim, Gravit Designer, Davinci Resolve and Fusion, Gimp, Qt Creator, WampServer64, Brackets, Autodesk Inventor, Visual Studio Code, BetaFlight, Arduino IDE
 
 <h4> Hardware </h4>
 
