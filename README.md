@@ -1,7 +1,17 @@
 <h1 align="center">Robby Martini</h1>
 <h4 align="center">marti2rj@mail.uc.edu</h4>
+<br>
 
+## Education
 
+<pre>
+University of Cincinnati, Cincinnati, Ohio                   Class of 2023
+Bachelor of Science in Computer Engineering                      GPA: 3.31
+</pre>
+<pre>
+Taylor High School, Cincinnati, Ohio                         Class of 2018
+Honors Diploma                                                    GPA 4.32
+</pre>
 
 ## Skills
 <h4> Programming Languages</h4>
@@ -38,18 +48,16 @@
 the glove will add points to the score board automatically.  It will also flash and vibrate
 when time is up.  
 
+#### Lego Robot
+
+> Created a robot that walks, and follows straight, curved, dotted, and broken lines.
+
+#### Built a drone
+> Built a drone with separately bought components
+
 <br>
 
-## Education
 
-<pre>
-University of Cincinnati, Cincinnati, Ohio                   Class of 2023
-Bachelor of Science in Computer Engineering                      GPA: 3.31
-</pre>
-<pre>
-Taylor High School, Cincinnati, Ohio                         Class of 2018
-Honors Diploma                                                    GPA 4.32
-</pre>
 
 
 
