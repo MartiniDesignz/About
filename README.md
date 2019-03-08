@@ -15,10 +15,14 @@
 <h4> Hardware </h4>
 
 > Digital Logic Circuits, Arduino, Raspberry Pi, Soldering
-d
 
-d
-   
+> 
+
+> 
+ 
+> 
+ 
+
 ## Relavent Projects
 
 <h4> Website Developement </h4>
