@@ -53,9 +53,9 @@ when time is up.
 > Created a robot that walks, and follows straight, curved, dotted, and broken lines.
 
 #### Built a drone
-> Built a drone with separately bought components
 
-<br>
+> Built a drone from scratch, then set it up to be controlled by a raspberry pi using nrf24l01 radio modules
+
 
 
 
