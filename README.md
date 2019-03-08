@@ -24,15 +24,15 @@
 
 > Created the website [martinihometech.com](http://martinihometech.com/index.php) to learn Html, CSS, JavaScript and PHP
 
-<h4> [MineSweeper](https://github.com/MartiniDesignz/MineSweeper) (C++) </h4>
+#### [MineSweeper](https://github.com/MartiniDesignz/MineSweeper) (C++) 
 
 > Created MineSweeper with straight C++
 
-<h4> [Hangman](https://github.com/MartiniDesignz/HangmanInLabVIEW) (LabVIEW) </h4>
+#### [Hangman](https://github.com/MartiniDesignz/HangmanInLabVIEW) (LabVIEW) 
 
 > Created Hangman using olny LabVIEW
 
-<h4> [Wrestling Glove](https://github.com/MartiniDesignz/Wrestling-Glove) (C++, Python) </h4>
+#### [Wrestling Glove](https://github.com/MartiniDesignz/Wrestling-Glove) (C++, Python)
 
 >The glove would be for wrestling referees.  When the referee awards points to a wrestler,
 the glove will add points to the score board automatically.  It will also flash and vibrate
