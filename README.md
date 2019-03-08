@@ -48,7 +48,7 @@ Honors Diploma                                                    GPA 4.32
 the glove will add points to the score board automatically.  It will also flash and vibrate
 when time is up.  
 
-#### Lego Robot
+#### Walking Lego Robot
 
 > Created a robot that walks, and follows straight, curved, dotted, and broken lines.
 
