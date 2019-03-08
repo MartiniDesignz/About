@@ -6,7 +6,7 @@
 
 ## Skills
 <h4> Programming</h4>
-<p padding="30"> -C++, Python, LabVIEW, MATLAB, Html, CSS, JavaScript, jQuery</p>
+><p> -C++, Python, LabVIEW, MATLAB, Html, CSS, JavaScript, jQuery</p>
 
 
 
