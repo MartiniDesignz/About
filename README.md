@@ -10,7 +10,7 @@
 
 <h4> Software </h4>
 
-> Excel, Microsoft Word, NI Multisim, Gravit Designer, Davinci Resolve and Fusion, Gimp, Qt Creator, WampServer64, Brackets, Autodesk Inventor, GitHub, Visual Studio Code, BetaFlight
+> GitHub, Excel, Microsoft Word, NI Multisim, Gravit Designer, Davinci Resolve and Fusion, Gimp, Qt Creator, WampServer64, Brackets, Autodesk Inventor, Visual Studio Code, BetaFlight
 
 <h4> Hardware </h4>
 
@@ -42,6 +42,14 @@ when time is up.
 
 ## Education
 
+<pre>
+University of Cincinnati, Cincinnati, Ohio                   Class of 2023
+Bachelor of Science in Computer Engineering                      GPA: 3.31
+</pre>
+<pre>
+Taylor High School, Cincinnati, Ohio                         Class of 2018
+Honors Diploma                                                    GPA 4.32
+</pre>
 
 
 
