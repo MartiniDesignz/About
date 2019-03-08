@@ -9,6 +9,11 @@
 
 >  C++, Python, LabVIEW, MATLAB, Html, CSS, JavaScript, jQuery
 
+<h4> Programming</h4>
 
+> Excel, Microsoft Word, NI Multisim, Gravit Designer, Davinci Resolve and Fusion, Gimp, Qt Creator, WampServer64, Brackets, Autodesk Inventor, GitHub, Visual Studio Code, BetaFlight
 
-•	Excel, Microsoft Word, NI Multisim, Gravit Designer, Davinci Resolve and Fusion, Gimp, Qt Creator, WampServer64, Brackets, Autodesk Inventor, GitHub, Visual Studio Code, BetaFlight
+<h4> Hardware </h4>
+
+> Digital Logic Circuits, Arduino, Raspberry Pi, Soldering
+
