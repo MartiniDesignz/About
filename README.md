@@ -5,7 +5,7 @@
 
 
 ## Skills
-<h4> Programming</h4>
+<h4> Programming Languages</h4>
 
 >  C++, Python, LabVIEW, MATLAB, Html, CSS, JavaScript, jQuery
 
