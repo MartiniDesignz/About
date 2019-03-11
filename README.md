@@ -30,9 +30,9 @@ Honors Diploma                                                    GPA 4.32
 
 ## Relavent Projects
 
-<h4> Website Developement (Html, CSS, JavaScript, PHP) </h4>
+<h4> Website Developement (Html, CSS, JavaScript(w/ jQuery), PHP) </h4>
 
-> Created the website [martinihometech.com](http://martinihometech.com/index.php) to learn Html, CSS, JavaScript and PHP
+> Created the website [martinihometech.com](http://martinihometech.com/index.php) to learn Html, CSS, JavaScript(w/ jQuery), and PHP
 
 #### [MineSweeper](https://github.com/MartiniDesignz/MineSweeper) (C++) 
 
