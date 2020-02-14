@@ -6,7 +6,7 @@
 
 <pre>
 University of Cincinnati, Cincinnati, Ohio                   Class of 2023
-Bachelor of Science in Computer Engineering                      GPA: 3.31
+Bachelor of Science in Computer Engineering                      GPA: 3.20
 </pre>
 <pre>
 Taylor High School, Cincinnati, Ohio                         Class of 2018
@@ -21,7 +21,7 @@ Honors Diploma                                                    GPA 4.32
 
 <h4> Software </h4>
 
-> GitHub, Excel, Microsoft Word, NI Multisim, Gravit Designer, Davinci Resolve and Fusion, Gimp, Qt Creator, WampServer64, Brackets, Autodesk Inventor, Visual Studio Code, BetaFlight, Arduino IDE
+> Linux, Windows, Mac, Git, Excel, Microsoft Word, NI Multisim, Gravit Designer, Davinci Resolve and Fusion, Gimp, Qt Creator, WampServer64, Brackets, Autodesk Inventor, Visual Studio Code, BetaFlight, Arduino IDE
 
 <h4> Hardware </h4>
 
